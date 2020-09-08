@@ -1,0 +1,12 @@
+package com.gp.patterns.movietickets.entities;
+
+public class Ticket {
+
+	private int id;
+	private String movieName;
+	private String screenNo;
+	private String seatNo;
+
+	
+
+}

@@ -1,0 +1,5 @@
+package com.gp.patterns.movietickets.controllers;
+
+public class TicketController {
+
+}

@@ -1,0 +1,7 @@
+package com.gp.patterns.dao;
+
+public class Employee {
+
+	private int id;
+	private String name;
+}

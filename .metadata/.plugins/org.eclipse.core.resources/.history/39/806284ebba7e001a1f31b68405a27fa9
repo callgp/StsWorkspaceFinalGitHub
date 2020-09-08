@@ -1,0 +1,13 @@
+package com.gp.patterns.ioc;
+
+public class CustomerImpl implements Customer {
+
+	CreditCard creditCard= new CreditCardImpl();
+	@Override
+	public void pay() {
+		// TODO Auto-generated method stub
+		creditCard.makePayment();
+
+	}
+
+}

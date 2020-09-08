@@ -1,0 +1,13 @@
+package com.gp.patterns.movietickets.services;
+
+import com.gp.patterns.movietickets.entities.Ticket;
+
+public class TicketServiceImpl implements TicketService {
+
+	@Override
+	public void purchaseTicket(Ticket ticket) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

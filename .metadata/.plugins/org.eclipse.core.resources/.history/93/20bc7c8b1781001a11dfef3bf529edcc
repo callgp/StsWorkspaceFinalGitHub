@@ -1,0 +1,8 @@
+package com.gp.patterns.movietickets.services;
+
+public interface TickerService {
+
+	void purchaseTicket(Ticket ticket) {
+		
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;employee&apos; from expression &apos;new Employee()&apos;&#x0D;&#x0A;- Original project: &apos;demdaoo&apos;&#x0D;&#x0A;- Variable name: &apos;employee&apos;&#x0D;&#x0A;- Destination method: &apos;com.gp.patterns.dao.DemdaooApplicationTests.testCreate()&apos;&#x0D;&#x0A;- Variable expression: &apos;new Employee()&apos;" description="Extract local variable &apos;employee&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/test\/java&lt;com.gp.patterns.dao{DemdaooApplicationTests.java" name="employee" replace="false" selection="312 14" stamp="1586971590875" varType="false" version="1.0"/>
+</session>

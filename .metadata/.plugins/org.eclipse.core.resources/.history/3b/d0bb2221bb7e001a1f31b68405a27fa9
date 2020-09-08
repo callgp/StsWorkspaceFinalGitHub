@@ -1,0 +1,17 @@
+package com.gp.patterns.ioc;
+
+import org.springframework.beans.factory.annotation.Autowired;
+@Component
+public class CustomerImpl implements Customer {
+
+	//CreditCard creditCard= new CreditCardImpl();
+	@Autowired
+	CreditCard creditCard
+	@Override
+	public void pay() {
+		// TODO Auto-generated method stub
+		creditCard.makePayment();
+
+	}
+
+}

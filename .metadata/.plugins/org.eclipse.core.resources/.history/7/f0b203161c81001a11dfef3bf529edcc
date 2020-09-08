@@ -1,0 +1,19 @@
+package com.gp.patterns.movietickets.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.gp.patterns.movietickets.entities.Ticket;
+import com.gp.patterns.movietickets.entities.dao.TicketDao;
+
+public class TicketServiceImpl implements TicketService {
+	
+	@Autowired
+	TicketDao dao;
+
+	@Override
+	public void purchaseTicket(Ticket ticket) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

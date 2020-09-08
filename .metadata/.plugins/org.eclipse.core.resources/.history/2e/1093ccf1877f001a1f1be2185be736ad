@@ -1,0 +1,12 @@
+package com.gp.patterns.movietickets.controllers;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+
+public class TicketController {
+	
+	@RequestMapping("/showCreateTicket")
+	public String showCreateTicket() {
+		return "createTicker";
+	}
+
+}

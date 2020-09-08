@@ -1,0 +1,5 @@
+package com.gp.patterns.movietickets.entities.dao;
+
+public interface TicketDao {
+
+}

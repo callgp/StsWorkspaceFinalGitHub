@@ -1,0 +1,5 @@
+package com.gp.patterns.mvc.controller;
+
+public class HelloController {
+
+}

@@ -1,0 +1,5 @@
+package com.gp.patterns.dao;
+
+public interface EmployeeDAO {
+
+}

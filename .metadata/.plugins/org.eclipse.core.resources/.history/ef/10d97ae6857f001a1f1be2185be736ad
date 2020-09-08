@@ -1,0 +1,19 @@
+package com.gp.patterns.movietickets.entities.dao;
+
+import com.gp.patterns.movietickets.entities.Ticket;
+
+public class TicketDaoImpl implements TicketDao {
+
+	@Override
+	public void create(Ticket ticket) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void create(com.gp.patterns.movietickets.entities.dao.Ticket ticket) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
